@@ -1,1 +1,1 @@
-# employee_wage_computation
+# Solving using Switch Case Switch
